@@ -1,4 +1,5 @@
-# Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Learn to Program [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 #### Foundation in Web Development
 
 The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.
@@ -55,12 +56,20 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
+#### [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn)
+**Free** guides on fundamental web development concepts\
+*(HTML, CSS, JavaScript, accessibility, performance, React, Ember, Vue, Svelte, Angular, Git, GitHub)*
+
 #### [GitHub Skills](https://github.com/skills)
 **Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
 **Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
+
+#### [Flexbox Froggy](https://flexboxfroggy.com/)
+**Free** game that teaches the CSS Flexbox\
 *(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
